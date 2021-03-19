@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pycalculator
+Version: 0.1
+Summary: RPN calculator developed in PyQt
+Home-page: https://github.com/zofy/PyCalc
+Author: Patrik Puchala
+Author-email: zofy11@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
