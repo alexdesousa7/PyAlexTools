@@ -17,3 +17,22 @@ Estas son tools que voy a ir diseñando en python
 
 Tratare de actualizarlas y mejorarlas a medida que aprenda cosas nuevas del mundo python
 agregare nuevas tools con el paso del tiempo
+
+Desarrollo y Herramientas Creadas PyTools
+
+### 🔹 Versiones Enero - Febrero (2026)
+
+###     Telefonos
+
+- **v2 — Teléfono Nokia 3310 retro (Tkinter + OOP)**
+- **v1 — Teléfono Basico retro (Tkinter + OOP)**
+
+###     Calculadora
+
+- **v6 — Calculadora científica (Tkinter + OOP)**
+- **v5 — Calculadora OOP (Tkinter + OOP)**
+- **v4 — Calculadora moderna con estilos y mejoras**
+- **v3 — Calculadora moderna**
+- **v2 — Calculadora Mejorada (versión original)**
+- **v1 — Calculadora básica (versión original)**
+
