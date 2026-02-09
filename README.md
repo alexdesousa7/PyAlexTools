@@ -36,3 +36,14 @@ Desarrollo y Herramientas Creadas PyTools
 - **v2 — Calculadora Mejorada (versión original)**
 - **v1 — Calculadora básica (versión original)**
 
+###     Formularios
+
+- **v04 — Formulario funcional con validación y persistencia (Tkinter + pickle)**  
+- **v03 — Primer formulario gráfico (versión amateur)**
+- **v02 — Experimentos con Tkinter (Checkbutton, Radiobutton, Labels, place/pack)**  
+- **v01 — Primeros pasos con POO y pickle (sin Tkinter)** 
+
+## Nota: Proximamente subire una verion en Ingles de los Readme
+
+
+
